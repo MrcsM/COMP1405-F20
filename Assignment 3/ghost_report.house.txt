@@ -1,0 +1,8 @@
+------ [RGHS] Start of Haunting Report [RGHS] ------
+Location: HOUSE
+There is an Oni in the LIVINGROOM
+There is a Phantom in the GAMEROOM
+There is a Poltergeist in the BASEMENT
+There is an Oni in the ATTIC
+There are no ghosts in the BATHROOM
+------- [RGHS] End of Haunting Report [RGHS] -------
